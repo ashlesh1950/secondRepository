@@ -1,4 +1,5 @@
 good masters
+good developers
 
 dont do any changes
 master specific
